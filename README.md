@@ -47,9 +47,8 @@ Original Dataset:
 * Accuracy: 91.93%
 * Confusion Matrix:
   
-	Predicted 0	Predicted 1
-Actual 0	47249	23423
-Actual 1	2174	4032
+![image](https://github.com/Misswieser/Project_4_Machine-Learning/assets/123671264/571031d5-da4d-4fa4-83b8-b73d7731bdde)
+
 
 * Classification Report:
 
