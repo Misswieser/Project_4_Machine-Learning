@@ -4,7 +4,7 @@
 # Overview:
 
 This project aims to predict loan default using a dataset of loan application information. By analyzing various features related to applicants' personal, financial, and employment information, the goal is to build a machine learning model that can accurately predict whether an applicant is likely to default on their loan.
-This repository contains code for predicting loan default using logistic regression. The dataset used for training and testing the model is stored in the application_train.csv file.
+This repository contains code for predicting loan default using logistic regression. 
 
 # Dataset:
 
