@@ -47,12 +47,12 @@ Original Dataset:
 * Accuracy: 91.93%
 * Confusion Matrix:
   
-![image](https://github.com/Misswieser/Project_4_Machine-Learning/assets/123671264/6ba71450-d83a-4dc1-a4d9-5f8f6bd8d27b)
+![image](https://github.com/Misswieser/Project_4_Machine-Learning/assets/123671264/d669092e-da25-4220-8842-96643436cdd2)
+
 
 * Classification Report:
 
-![image](https://github.com/Misswieser/Project_4_Machine-Learning/assets/123671264/13406c66-a691-4204-9c38-468a4ad7cb6f)
-
+![image](https://github.com/Misswieser/Project_4_Machine-Learning/assets/123671264/ffb3d672-7dac-45c6-addb-f2e80a22f132)
 
 Oversampled Dataset:
 
