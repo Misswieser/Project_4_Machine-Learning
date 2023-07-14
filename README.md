@@ -44,12 +44,14 @@ The results obtained from the logistic regression model are as follows:
 
 Original Dataset:
 
-Accuracy: 91.93%
-Confusion Matrix:
-Predicted 0	Predicted 1
-Actual 0	70670	2
-Actual 1	6205	1
-Classification Report:
+* Accuracy: 91.93%
+* Confusion Matrix:
+  
+	Predicted 0	Predicted 1
+Actual 0	47249	23423
+Actual 1	2174	4032
+
+* Classification Report:
 precision	recall	f1-score	support
 payment difficulty	0.92	1.00	0.96	70672
 other cases	0.33	0.00	0.00	6206
