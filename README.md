@@ -42,21 +42,20 @@ This ensures a balanced representation of defaulters and non-defaulters in both 
 # Results
 The results obtained from the logistic regression model are as follows:
 
-Original Dataset:
+# Original Dataset:
 
 * Accuracy: 91.93%
 * Confusion Matrix:
   
-![image](https://github.com/Misswieser/Project_4_Machine-Learning/assets/123671264/77404ea1-1ae8-4d94-82de-9fb28ef8b456)
-
-
+![image](https://github.com/Misswieser/Project_4_Machine-Learning/assets/123671264/0b9dd387-6cd7-433e-86ca-3801f19cc206)
 
 * Classification Report:
 
-![image](https://github.com/Misswieser/Project_4_Machine-Learning/assets/123671264/ae18a3b2-81a7-40a9-8cbb-ad388b1c82d9)
+![image](https://github.com/Misswieser/Project_4_Machine-Learning/assets/123671264/6fdfa0a2-8cd3-4f33-a5ab-83c1ac174505)
 
 
-Oversampled Dataset:
+
+# Oversampled Dataset:
 
 * Accuracy: 66.70%
 * Confusion Matrix:
