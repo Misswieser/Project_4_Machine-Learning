@@ -47,28 +47,24 @@ Original Dataset:
 * Accuracy: 91.93%
 * Confusion Matrix:
   
-![image](https://github.com/Misswieser/Project_4_Machine-Learning/assets/123671264/571031d5-da4d-4fa4-83b8-b73d7731bdde)
-
+![image](https://github.com/Misswieser/Project_4_Machine-Learning/assets/123671264/6ba71450-d83a-4dc1-a4d9-5f8f6bd8d27b)
 
 * Classification Report:
 
-
-			precision	recall	f1-score	support
-payment difficulty	0.96		0.67	0.79		70672
-other cases		0.15		0.65	0.24		6206
+![image](https://github.com/Misswieser/Project_4_Machine-Learning/assets/123671264/13406c66-a691-4204-9c38-468a4ad7cb6f)
 
 
 Oversampled Dataset:
 
-Accuracy: 66.70%
-Confusion Matrix:
-Predicted 0	Predicted 1
-Actual 0	47249	23423
-Actual 1	2174	4032
-Classification Report:
-precision	recall	f1-score	support
-payment difficulty	0.96	0.67	0.79	70672
-other cases	0.15	0.65	0.24	6206
+* Accuracy: 66.70%
+* Confusion Matrix:
+
+![image](https://github.com/Misswieser/Project_4_Machine-Learning/assets/123671264/34a544b4-f3f0-4dc8-aeb5-b67a4c86d33b)
+
+* Classification Report:
+
+![image](https://github.com/Misswieser/Project_4_Machine-Learning/assets/123671264/c16dd1f4-a0b2-47e2-9df5-3bb090728f67)
+
 The oversampling technique improves the recall of the minority class (loan default cases) but leads to a decrease in precision.
 
 # Conclusion
