@@ -52,9 +52,13 @@ Actual 0	47249	23423
 Actual 1	2174	4032
 
 * Classification Report:
-precision	recall	f1-score	support
-payment difficulty	0.92	1.00	0.96	70672
-other cases	0.33	0.00	0.00	6206
+
+
+			precision	recall	f1-score	support
+payment difficulty	0.96		0.67	0.79		70672
+other cases		0.15		0.65	0.24		6206
+
+
 Oversampled Dataset:
 
 Accuracy: 66.70%
