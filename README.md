@@ -2,6 +2,7 @@
 
 ## Overview:
 
+This is a project created by Group 2 in the Bootcamp Data Analysis programe. 
 This project aims to predict loan default using a dataset of loan application information. By analyzing various features related to applicants' personal, financial, and employment information, the goal is to build a machine learning model that can accurately predict whether an applicant is likely to default on their loan.
 This repository contains code for predicting loan default using logistic regression. 
 
@@ -10,13 +11,13 @@ This repository contains code for predicting loan default using logistic regress
 The dataset used for this project is stored in the "application_train.csv" file. It contains 307,511 rows and 122 columns, including a mix of numerical and categorical variables. These variables capture information such as income, employment status, housing type, and credit history.
 
 ## Exploratory Data Analysis:
-
-Before building the predictive model, an exploratory data analysis (EDA) is performed to gain insights into the dataset and understand the relationships between different variables. Some key observations from the EDA include:
+To explore the Data we have used Python, pandas, before building the predictive model, an exploratory data analysis (EDA) is performed to gain insights into the dataset and understand the relationships between different variables. Some key observations from the EDA include:
 
 The target variable "TARGET" indicates whether an applicant has defaulted on their loan. The dataset is imbalanced, with a majority of non-defaulters (91.9%) compared to defaulters (8.1%).
 Certain variables, such as "FLAG_OWN_CAR" and "FLAG_OWN_REALTY," show potential correlations with loan default.
 Feature engineering is applied to create new variables representing loan amounts relative to the applicant's income.
 Outliers in income and employment variables are handled appropriately.
+We have also used Matplotlip to create visualization of the data, and use these visualizations for our presentation. 
 
 ## Data Preprocessing:
 
